@@ -1,4 +1,4 @@
-S C:\Users\David Kim\OneDrive\Desktop\342 Spring> cd "c:\Users\David Kim\OneDrive\Desktop\342 Spring\program3_342Spring\" ; if ($?) { g++ *.cpp -o test } ; if ($?) { .\test }
+
 class1: PradnyaDhala8AngieHam7CesarRuiz6PiqiTangi7BillVollmann13RussellWilson13
 ERROR::: Duplicate
 Class2: HankAaron3CesarRuiz6PiqiTangi7RussellWilson13JohnZorn4
@@ -11,4 +11,3 @@ football: HankAaron3MilesDavis65PradnyaDhala8CesarRuiz6BillVollmann13RussellWils
 RussellWilson13 is on the football team
 These are the numbers: -1113
 Testing build list0johnbonjovi50jiaquichen20fredflinstone1001wilmaflinstone1004gracehopper90raviiyer54mollymcclluers76
-PS C:\Users\David Kim\OneDrive\Desktop\342 Spring\program3_342Spring> 
