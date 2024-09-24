@@ -1,4 +1,3 @@
-[davidk1@csslab13 program5_342Spring]$ ./jolly_banker "bank_trans_in.txt"
 ERROR: Not enough funds to withdraw $20000 from Johnny Cash Growth Index Fund
 Transaction History for Johnny Cash by fund.
 Money Market: $470
