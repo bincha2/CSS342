@@ -1,0 +1,57 @@
+[davidk1@csslab3 greedy_robot]$ g++ greedy_robot.cpp greedy_robot_run.cpp -o gre                                                                             edy_robot
+[davidk1@csslab3 greedy_robot]$ ls
+greedy_robot      greedy_robot.h        robot_test
+greedy_robot.cpp  greedy_robot_run.cpp
+[davidk1@csslab3 greedy_robot]$ ./robot_test
+Test cases for Greedy Robot by David Kim - Dimpsey 342
+Test X: (shortest distance, number of paths)
+TEST 1: (2,2)
+ES
+SE
+Number of paths: 2
+TEST 2: (Already there)
+
+Number of paths: 1
+TEST 3: (NP, 0)
+Number of paths: 0
+Testing custom test cases
+Test 4: (straight line path, shortest distance: 5, number of paths)
+Number of paths: 0
+Test 5: (no solution, shortest distance: NP, number of paths: 0)
+Number of paths: 0
+Test 6: (large max_distance, shortest distance: 10, number of paths)
+EEENNN
+EENENN
+EENNEN
+EENNNE
+ENEENN
+ENENEN
+ENENNE
+ENNEEN
+ENNENE
+ENNNEE
+NEEENN
+NEENEN
+NEENNE
+NENEEN
+NENENE
+NENNEE
+NNEEEN
+NNEENE
+NNENEE
+NNNEEE
+Number of paths: 20
+Test 7: (negative coordinates, shortest distance: 5, number of paths)
+Number of paths: 0
+Test 8: (horizontal path, shortest distance: 4, number of paths)
+Number of paths: 0
+Test 9: (vertical path, shortest distance: 4, number of paths)
+Number of paths: 0
+Test 10: number of paths = 34
+EENENENN
+EENENNEN
+EENNEENN
+EENNENEN
+EENNENNE
+ENEENENN
+ENEENNEN
