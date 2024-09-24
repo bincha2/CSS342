@@ -1,8 +1,3 @@
-[davidk1@csslab3 greedy_robot]$ g++ greedy_robot.cpp greedy_robot_run.cpp -o gre                                                                             edy_robot
-[davidk1@csslab3 greedy_robot]$ ls
-greedy_robot      greedy_robot.h        robot_test
-greedy_robot.cpp  greedy_robot_run.cpp
-[davidk1@csslab3 greedy_robot]$ ./robot_test
 Test cases for Greedy Robot by David Kim - Dimpsey 342
 Test X: (shortest distance, number of paths)
 TEST 1: (2,2)
